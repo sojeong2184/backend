@@ -5,6 +5,4 @@
 <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> <a href="http://bit.ly/2PlJZmo" rel="nofollow">넷플릭스가 AWS로 이전한 과정</a></li>
 </ul>
 <hr>
-::before
-::after
 </hr>
