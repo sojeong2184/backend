@@ -34,6 +34,8 @@
 <ul class="contains-task-list">
  <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> <a href="https://d2.naver.com/helloworld/7804182">어서 와, SSR은 처음이지? - 도입 편</a></li>
   <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> <a href="https://coconutstd.github.io/posts/Vue.js-0/">vue.js 시작하기!</a></li>
+  <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> <a href="https://m.blog.naver.com/220972680805">DOM이란 무엇인가?</a></li>
 </ul>
 <hr>
 </hr>
+
